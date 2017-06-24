@@ -10,7 +10,7 @@ To use this template, either create a new ionic project using the ionic node.js 
 
 
 ```
-$ git clonehttps://github.com/mrkamlesh/welcome-ionic.git
+$ git clone https://github.com/mrkamlesh/welcome-ionic.git
 $ cd ionic-welcome
 $ npm install
 $ ionic serve
